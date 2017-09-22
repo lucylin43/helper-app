@@ -1,7 +1,8 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The ItemInterface class contains
+ * all the data for a service provider or event
  */
 
 public interface ItemInterface {

@@ -1,7 +1,8 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The ListItemsFragmentDecorator class adds
+ * additional functionality to a ListItemsFragmentInterface
  */
 
 public class ListItemsFragmentDecorator {

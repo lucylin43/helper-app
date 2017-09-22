@@ -19,6 +19,11 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
+/**
+ * TODO: do I need this? 
+ * 
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

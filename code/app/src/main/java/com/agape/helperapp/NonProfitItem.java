@@ -1,7 +1,9 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The NonProfitItem class includes all the 
+ * information for a service provider (e.g. contact
+ * info, description etc.)
  */
 
 public class NonProfitItem {

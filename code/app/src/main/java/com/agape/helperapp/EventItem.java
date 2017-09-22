@@ -1,7 +1,8 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The EventItem class contains all the data
+ * for an event (e.g. description, time etc.)
  */
 
 public class EventItem {

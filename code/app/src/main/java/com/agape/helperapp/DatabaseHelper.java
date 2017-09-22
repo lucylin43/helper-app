@@ -1,7 +1,8 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The DatabaseHelper Class implements functions
+ * related to interacting with the database.
  */
 
 public class DatabaseHelper {

@@ -1,7 +1,9 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * The ItemDecorator class adds additional
+ * functionality to realizations of the ItemInterface
+ * class
  */
 
 public class ItemDecorator {

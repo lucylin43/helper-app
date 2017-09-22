@@ -1,7 +1,9 @@
 package com.agape.helperapp;
 
 /**
- * Created by Lucy on 2017-09-15.
+ * ListItemsFragmentInterface class outlines the
+ * contract for a general activity that lists
+ * events and service providers.
  */
 
 public interface ListItemsFragmentInterface {
