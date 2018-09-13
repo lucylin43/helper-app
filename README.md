@@ -6,3 +6,7 @@ Helper-App is an Android application currently in progress to connect low-income
 <img src="https://github.com/lucylin43/helper-app/blob/master/documentation/directions_screen.png" height="500">
 <img src="https://github.com/lucylin43/helper-app/blob/master/documentation/searchResults_screen.png" height="500">
 
+## Contributors
+Jarinya Hochstrasser
+
+Lucy Lin
